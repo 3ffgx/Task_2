@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+.vscode/
+.idea/
+
+results/
+
+# 如数据不公开，建议忽略原始数据
+data/*.csv
+data/*.xlsx
+
+# 系统与临时文件
+*.log
+*.tmp
+*.bak
